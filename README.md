@@ -1,2 +1,2 @@
 # openCV
-openCV practice
+openCV study with Python XD
